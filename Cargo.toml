@@ -1,0 +1,5 @@
+[workspace]
+
+members = [
+  "projects/p-001-fizzbuzz",
+]
