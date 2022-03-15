@@ -2,4 +2,5 @@
 
 members = [
   "projects/p-001-fizzbuzz",
+  "projects/p-002-evenfib",
 ]
