@@ -13,3 +13,7 @@ version = "0.1.0"
 [[package]]
 name = "p-003-lrgprimefactor"
 version = "0.1.0"
+
+[[package]]
+name = "p-004-sumsquarediff"
+version = "0.1.0"
