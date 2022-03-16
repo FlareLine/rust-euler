@@ -1,5 +1,5 @@
 [package]
-name = "p-004-sumsquarediff"
+name = "p-006-sumsquarediff"
 version = "0.1.0"
 edition = "2021"
 
